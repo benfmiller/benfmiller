@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"><img src="https://media1.tenor.com/images/b458c659ad844b06054d81b993b3fca1/tenor.gif?itemid=18688958" /></p>
+
 <!--
 **benfmiller/benfmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
