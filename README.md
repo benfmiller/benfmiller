@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <!--
 //<p align="center"><img src="https://media1.tenor.com/images/b458c659ad844b06054d81b993b3fca1/tenor.gif?itemid=18688958" /></p>
 
