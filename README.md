@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E7292K7)
+<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E7292K7) -->
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
